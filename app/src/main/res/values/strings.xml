@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Cadastra Atletas</string>
+
+    <string name="etNome">Nome:</string>
+    <string name="etDataDeNascimento">Data de Nascimento:</string>
+    <string name="etBairro">Bairro:</string>
+
+    <string name="tvAtletasJuvenis">Atletas Juvenis</string>
+    <string name="etQuantidadeDeAnos">Quantidades de Anos que pratica o esporte</string>
+
+    <string name="tvAtletasSenior">Atletas Sêniores</string>
+    <string name="tvProblemasCardiacos">Possui problemas cardiacos?</string>
+
+    <string name="tvAtletasOutros">Outros Atletas</string>
+    <string name="etAcademia">Insira sua academia</string>
+    <string name="etRecorde">Recorde em segundos nesta prova</string>
+
+    <string name="btnCadastrar">Cadastrar</string>
+
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+</resources>
